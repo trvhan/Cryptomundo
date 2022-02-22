@@ -1,27 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<feed 
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es">
 
-  xmlns="https://github.com/trvhan/Cryptomundo"
-  xml:lang="es"
-  xml:base="https://github.com/trvhan/Cryptomundo">
-  
-
-<!--Esto es el feed--> 
- <title>Cryptomundo</title>
+ <title>Criptomundo</title>
  <updated>2022-02-16T16:13:50Z</updated>
  <author> <name>Angel Barea Almellones</name> <email>a21baalan@iesgrancapitan.org</email> </author>
  <link href="https://github.com/trvhan/Cryptomundo"/>
- <id>https://github.com/trvhan/Cryptomundo"</id>
+ <id>https://github.com/trvhan/Cryptomundo</id>
  <category term="Criptomundo"/>
- <rights type="html"> &copy; 2022 Angel Barea</rights>
-<!--Acabafeed-->
+ <rights type="html"> 2022 Angel Barea</rights>
+
 
     <entry>
  
      <title>BTC</title>
 
-     <link href="https://github.com/trvhan/Cryptomundo"/>
+     <link href="https://github.com/trvhan/Cryptomundo/blob/main/pruebaatom1"/>
+
+     <updated>2022-02-16T16:13:50Z</updated>
+
+     <summary>Algun texto resumen.</summary>
+
+     <id>https://github.com/trvhan/Cryptomundo</id>
+
+     <author> <name>Angel Barea Almellones</name> <email>a21baalan@iesgrancapitan.org</email> </author>
+
+    </entry>
+
+    <entry>
+ 
+     <title>BTC</title>
+
+     <link href="https://github.com/trvhan/Cryptomundo/blob/main/pruebaatom1"/>
 
      <updated>2022-02-16T16:13:50Z</updated>
 
@@ -34,11 +44,11 @@
  
     </entry>
 
-        <entry>
+    <entry>
  
      <title>BTC</title>
 
-     <link href="https://github.com/trvhan/Cryptomundo"/>
+     <link href="https://github.com/trvhan/Cryptomundo/blob/main/pruebaatom1"/>
 
      <updated>2022-02-16T16:13:50Z</updated>
 
@@ -51,12 +61,11 @@
  
     </entry>
 
-
     <entry>
  
      <title>BTC</title>
 
-     <link href="https://github.com/trvhan/Cryptomundo"/>
+     <link href="https://github.com/trvhan/Cryptomundo/blob/main/pruebaatom1"/>
 
      <updated>2022-02-16T16:13:50Z</updated>
 
@@ -66,25 +75,6 @@
 
      <author> <name>Angel Barea Almellones</name> <email>a21baalan@iesgrancapitan.org</email> </author>
 
- 
-    </entry>
-
-
-    <entry>
- 
-     <title>BTC</title>
-
-     <link href="https://github.com/trvhan/Cryptomundo"/>
-
-     <updated>2022-02-16T16:13:50Z</updated>
-
-     <summary>Algun texto resumen.</summary>
-
-     <id>https://github.com/trvhan/Cryptomundo</id>
-
-     <author> <name>Angel Barea Almellones</name> <email>a21baalan@iesgrancapitan.org</email> </author>
-
- 
     </entry>
 
 
