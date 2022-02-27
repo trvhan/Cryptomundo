@@ -7,76 +7,114 @@
  <author> <name>Angel Barea Almellones</name> <email>a21baalan@iesgrancapitan.org</email> </author>
  <link href="https://github.com/trvhan/Cryptomundo"/>
  <id>https://github.com/trvhan/Cryptomundo</id>
- <category term="Criptomundo"/>
+ <category term="Cryptomundo"/>
  <rights type="html"> 2022 Angel Barea</rights>
 
 
     <entry>
  
-     <title>BTC</title>
+     <title>Bitcoin</title>
 
      <link href="https://github.com/trvhan/Cryptomundo/blob/main/pruebaatom1"/>
 
      <updated>2022-02-16T16:13:50Z</updated>
 
-     <summary>Algun texto resumen.</summary>
+     <summary>Conoce que es el Bitcoin y para que sirve.</summary>
 
      <id>https://github.com/trvhan/Cryptomundo</id>
 
      <author> <name>Angel Barea Almellones</name> <email>a21baalan@iesgrancapitan.org</email> </author>
 
+    <link rel="enclosure"
+        type="html"
+        title="Pagina Html"
+        href="https://github.com/trvhan/Cryptomundo"
+        length="1234"/>
+
+    </entry>
+
+
+
+    <entry>
+ 
+     <title>NFT</title>
+
+     <link href="https://github.com/trvhan/Cryptomundo/blob/main/pruebaatom1"/>
+
+     <updated>2022-02-16T16:13:50Z</updated>
+
+     <summary>Aprende lo relacionado con este nuevo tipo de "arte" virtual.</summary>
+
+     <id>https://github.com/trvhan/Cryptomundo</id>
+
+     <author> <name>Angel Barea Almellones</name> <email>a21baalan@iesgrancapitan.org</email> </author>
+
+    <link rel="enclosure"
+        type="text"
+        title="Cryptomundo"
+        href="https://github.com/trvhan/Cryptomundo"
+        length="1234" />
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <h1>Notas</h1>
+        <ul>
+            <li>Intro</li>
+            <li>Numero NFT</li>
+            <li>Accion</li>
+        </ul>
+      </div>
+    </content>
+
+    </entry>
+
+
+
+    <entry>
+ 
+     <title>Blockchain</title>
+
+     <link href="https://github.com/trvhan/Cryptomundo/blob/main/pruebaatom1"/>
+
+     <updated>2022-02-16T16:13:50Z</updated>
+
+     <summary>Conoce que es y como funciona la Blockchain.</summary>
+
+     <id>https://github.com/trvhan/Cryptomundo</id>
+
+     <author> <name>Angel Barea Almellones</name> <email>a21baalan@iesgrancapitan.org</email> </author>
+
+    <link rel="enclosure"
+        xml:lang="es"
+         title="PDF Clase"
+         type="application/pdf"
+         hreflang="es"
+        href="https://moodle.iesgrancapitan.org/pluginfile.php/45423/mod_resource/content/0/Sindicaci%C3%B3n%20de%20contenidos.pdf" />
+ 
     </entry>
 
     <entry>
  
-     <title>BTC</title>
+     <title>Metaverso</title>
 
      <link href="https://github.com/trvhan/Cryptomundo/blob/main/pruebaatom1"/>
 
      <updated>2022-02-16T16:13:50Z</updated>
 
-     <summary>Algun texto resumen.</summary>
+     <summary>Aprende que es el metaverso y que utilidades tiene.</summary>
 
      <id>https://github.com/trvhan/Cryptomundo</id>
 
      <author> <name>Angel Barea Almellones</name> <email>a21baalan@iesgrancapitan.org</email> </author>
 
- 
-    </entry>
-
-    <entry>
- 
-     <title>BTC</title>
-
-     <link href="https://github.com/trvhan/Cryptomundo/blob/main/pruebaatom1"/>
-
-     <updated>2022-02-16T16:13:50Z</updated>
-
-     <summary>Algun texto resumen.</summary>
-
-     <id>https://github.com/trvhan/Cryptomundo</id>
-
-     <author> <name>Angel Barea Almellones</name> <email>a21baalan@iesgrancapitan.org</email> </author>
-
- 
-    </entry>
-
-    <entry>
- 
-     <title>BTC</title>
-
-     <link href="https://github.com/trvhan/Cryptomundo/blob/main/pruebaatom1"/>
-
-     <updated>2022-02-16T16:13:50Z</updated>
-
-     <summary>Algun texto resumen.</summary>
-
-     <id>https://github.com/trvhan/Cryptomundo</id>
-
-     <author> <name>Angel Barea Almellones</name> <email>a21baalan@iesgrancapitan.org</email> </author>
+     <link rel="enclosure"
+        type="audio/mpeg"
+        title="Notificacion"
+        href="https://github.com/trvhan/Cryptomundo/blob/main/notificacion.mp3"
+        length="1234"/>
 
     </entry>
 
 
 
 </feed>
+
